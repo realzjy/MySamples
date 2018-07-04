@@ -1,0 +1,11 @@
+.vs/
+*.user
+*.pdb
+*.suo
+*.ide
+*.cache
+*.ide/
+*/bin/
+*/obj/
+*/Properties/
+My\ Samples/.vs/
